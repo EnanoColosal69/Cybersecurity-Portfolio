@@ -5,9 +5,12 @@ The course focuses on fundamentals of cybersecurity, network security, risk mana
 
 ## Modules & Labs
 - Module 1: Cybersecurity Basics
-- Module 2: Network Security
-- Module 3: Digital Forensics
-- Module 4: Incident Response
+- Module 2: Managing Security Risks
+- Module 3: Connect and Protect: Networks and Network Security
+- Module 4: Linux and SQL
+- Module 5: Resources, threats and vulnerabilities
+- Module 6: Detection and response
+- Module 7: Automate cybersecurity tasks with Python
 
 ## Skills & Learnings
 - Network analysis with Wireshark
